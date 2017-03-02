@@ -1,0 +1,42 @@
+
+/* Common Css */
+
+body {
+  font-family: sans-serif;
+  background-color: #F0FFFF;
+}
+
+div {
+  position:absolute;
+  overflow:hidden;
+  background-color: #F0FFFF;
+}
+
+/* Css for main div and slider div */
+#main {
+  top:50%;
+  width:1050px; /* make change here to fit the width of your image*/
+  height:500px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top:-250px;
+  background-color: #f0fbfb;
+}
+
+#divSlider {
+  left:0px;
+  top:0px;
+  width:100%;
+  height:500px; /* make change here to fit the height of your image*/
+}
+
+#divImg0, #divImg1 {
+  width:100%;
+  height:100%;
+  background-image: url("../images/img0.jpg");  
+}
+
+
+
+
+

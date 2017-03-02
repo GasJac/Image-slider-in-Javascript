@@ -1,0 +1,1 @@
+--Basic slider that scroll image horizontally. You should change the width (#main div) and height (#divSlider div) to match the size of your images.
